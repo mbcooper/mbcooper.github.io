@@ -4,7 +4,7 @@
 body {
     margin: 60px;
 
-    background-image: url('/assets/itemContent.jpg');
+    background-image: url('/assets/itemContent2.jpg');
 
     -webkit-filter: brightness(10%);
     background-size: contain;
@@ -20,6 +20,7 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
     font-size: 1.4em;
+    color: white;
 }
 a {
     text-decoration: none;
