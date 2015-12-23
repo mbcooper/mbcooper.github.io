@@ -6,10 +6,8 @@ body {
 
     background-image: url('/assets/itemContent.jpg');
 
-    -webkit-filter: brightness(50%);
+    -webkit-filter: brightness(10%);
     background-size: contain;
-    opacity: 0.2;
-    filter: alpha(opacity=40); /* For IE8 and earlier */
     color: white;
 }
 nav ul, footer ul {
