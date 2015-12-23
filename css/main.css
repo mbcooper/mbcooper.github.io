@@ -1,11 +1,11 @@
 /**
-//561px 374px;
+//561px 374px;background-repeat: repeat;
 */
 body {
     margin: 60px;
 
     background-image: url('/assets/itemContent.jpg');
-    background-repeat: repeat;
+
     -webkit-filter: brightness(50%);
     background-size: contain;
     opacity: 0.2;
