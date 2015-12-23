@@ -44,7 +44,7 @@ body {
     background: rgba(0, 0, 0, 0.25)
 }
 nav, footer{
-    width: 300px;
+    width: 400px;
 }
 nav ul, footer ul {
 
@@ -54,6 +54,7 @@ nav ul, footer ul {
 }
 
 nav ul li, footer ul li {
+    width: 120px;
     display: inline;
     margin-right: 20px;
     font-size: 1.4em;
