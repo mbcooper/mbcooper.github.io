@@ -43,9 +43,11 @@ body {
     height: 100%;
     background: rgba(0, 0, 0, 0.25)
 }
-
-nav ul, footer ul {
+nav, footer{
     width: 300px;
+}
+nav ul, footer ul {
+
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -97,5 +99,5 @@ ul.posts li {
 }
 
 .container {
-
+    width: 600px;
 }
