@@ -6,7 +6,7 @@ body {
 
     background-image: url('/assets/itemContent.jpg');
     background-repeat: repeat;
-
+    -webkit-filter: brightness(50%);
     background-size: contain;
     opacity: 0.2;
     filter: alpha(opacity=40); /* For IE8 and earlier */
@@ -37,7 +37,7 @@ h1 {
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-    color: #333;
+    color: white;
 }
 footer {
     border-top: 1px solid #d5d5d5;
