@@ -51,6 +51,8 @@ nav ul li, footer ul li {
     margin-right: 20px;
     font-size: 1.4em;
     color: white;
+    position: relative;
+    z-index: 1;
 }
 a {
     text-decoration: none;
@@ -59,8 +61,10 @@ a {
 a:hover {
     text-decoration: underline;
 }
-h1 {
-    font-size: 3em;
+h1, h2 {
+    color: white;
+    position: relative;
+    z-index: 1;
 
 }
 p {
