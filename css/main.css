@@ -3,10 +3,7 @@
 */
 body {
     margin: 60px;
-
     background-image: url('/assets/itemContent2.jpg');
-
-    -webkit-filter: brightness(10%);
     background-size: contain;
     color: white;
 }
