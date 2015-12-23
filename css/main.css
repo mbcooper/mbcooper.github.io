@@ -7,6 +7,15 @@ body {
     color: white;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
+.title {
+    background-color: black;
+    color: #fff;
+    display: inline;
+    padding: 0.5rem;
+
+    -webkit-box-decoration-break: clone;
+    box-decoration-break: clone;
+}
 nav ul, footer ul {
 
     padding: 0px;
